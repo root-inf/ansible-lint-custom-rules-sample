@@ -1,0 +1,1 @@
+# ansible-lint-custom-rules-sample

@@ -65,7 +65,6 @@ class DeprecatedModuleRule(AnsibleLintRule):
         "vsphere_guest",
         "win_msi",
         "include",
-        "pids",
         # spell-checker:enable
     ]
 

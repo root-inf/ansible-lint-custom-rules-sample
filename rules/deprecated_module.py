@@ -65,6 +65,7 @@ class DeprecatedModuleRule(AnsibleLintRule):
         "vsphere_guest",
         "win_msi",
         "include",
+        "copy",
         # spell-checker:enable
     ]
 
